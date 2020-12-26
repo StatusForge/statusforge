@@ -4,6 +4,9 @@ This is the documentation and community repo for [StatusForge](https://www.statu
 
 The issue tracker and discussion boards are used for community feedback and bug reporting for the StatusForge platform.
 
-* [:question: Discussions, Feature Requests, Q&A](https://github.com/StatusForge/statusforge/discussions)
-* [:warning: Bug Reports](https://github.com/StatusForge/statusforge/issues)
-* [:memo: Documentation](https://docs.statusforge.com)
+[:question: Discussions, Feature Requests, Q&A](https://github.com/StatusForge/statusforge/discussions)
+
+[:warning: Bug Reports](https://github.com/StatusForge/statusforge/issues)
+
+[:memo: Documentation](https://docs.statusforge.com)
+
